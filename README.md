@@ -19,7 +19,7 @@ The Consumer Complaint Database is a collection of complaints about consumer fin
 
 Over time the number of complaints have increased and we can see very clear spikes and outliers in the beginning and the end of 2017.
 
-### What's up with the spike? 
+### What is going on with the spike? 
 
 One day before before the sudden peak, on September 7, 2017, Equifax announced a data breach, stating that hackers had access to the sensitive information of around 143 million Americans. The hackers had access to names, Social Security numbers, birth dates, addresses, driver's license numbers, credit card numbers, and other documents.
 
@@ -89,41 +89,3 @@ The data shows some positive news for consumers in that most of the complaints c
 
 The data demonstrates that consumers are having increased problems with credit reporting and related issues. The trend is clear and one may predict that this trend will likely continue into the future. This sends a clear signal to the CFPB, legislators, and other interested parties that something needs to be fixed. Undoubtedly, financial firms and credit reporting agencies could come under the radar of regulators, especially after a change in political leadership and direction that looks more favorably at the CFPB's mandate. 
 
-
-
-
-You can use the [editor on GitHub](https://github.com/dz777/dz777.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dz777/dz777.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
