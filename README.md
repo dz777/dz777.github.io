@@ -41,7 +41,7 @@ Looking at the data by the monthly number of complaints makes it even clearer th
 
 <img src="4timeseries_m_complaints_product.png">
 
-The graph show clear spikes in 2017 and 2020 - due to the increase in complaints to the credit reporting, credit repair services, or other personal consumer reports. The graph makes it slightly difficult to see the other financial complaints by product, so let's check their distribution. Due to their clear spikes in the graph, let's compare 2017 to 2020. 
+The graph show clear spikes in 2017 and 2020 - due to the increase in complaints to the credit reporting, credit repair services, or other personal consumer reports. The graph makes it slightly difficult to see the other financial complaints by product, so let's check their distribution. Due to their clear spikes in the graph, let us compare 2017 to 2020. 
 
 ### Daily complaints by product - 2017 vs. 2020
 
