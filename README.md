@@ -1,5 +1,7 @@
 ## Analysis of the CFPB Consumer Complaints Database
 
+<img src="CFPB_closer.jpg">
+
 Navajas, D.
 
 Download CFPB Data: http://files.consumerfinance.gov/ccdb/complaints.csv.zip
