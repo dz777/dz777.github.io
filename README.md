@@ -1,6 +1,5 @@
 ## Analysis of the CFPB Consumer Complaints Database
 
-<img src="images/CFPB_closer.jpg">
 
 Navajas, D.
 
