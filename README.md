@@ -6,6 +6,8 @@ Download CFPB Data: http://files.consumerfinance.gov/ccdb/complaints.csv.zip
 
 This project examines and analyzes the complaints database from the Consumer Financial Protection Bureau. The database is a collection of complaints about consumer financial products and services that was sent to companies for response. The CFPB consumer complaint database was downloaded directly from the CFPB website. In order to re-use the code from this project and run the analysis, download the data from the website link, unzip "complaints.csv.zip" in the same folder as the Jupyter notebook code and then run it. Complaints are published after the company responds, confirming a commercial relationship with the consumer, or after 15 days, whichever comes first.
 
+{% include map.html %}
+
 
 
 ## Welcome to GitHub Pages
