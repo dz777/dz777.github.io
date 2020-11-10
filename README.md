@@ -1,12 +1,26 @@
 ## Analysis of the CFPB Consumer Complaints Database
 
+Navajas, D.
+
 Download CFPB Data: http://files.consumerfinance.gov/ccdb/complaints.csv.zip
 
-*** The data file is over 1 GB and well above the limit set by GitHub. Please download the csv file from the link above and unzip it.
+*The data file is over 1 GB and well above the limit set by GitHub. Please download the csv file from the link above and unzip it.
 
-This project examines and analyzes the complaints database from the Consumer Financial Protection Bureau. The database is a collection of complaints about consumer financial products and services that was sent to companies for response. The CFPB consumer complaint database was downloaded directly from the CFPB website. In order to re-use the code from this project and run the analysis, download the data from the website link, unzip "complaints.csv.zip" in the same folder as the Jupyter notebook code and then run it. Complaints are published after the company responds, confirming a commercial relationship with the consumer, or after 15 days, whichever comes first.
+This project examines and analyzes the complaints database from the Consumer Financial Protection Bureau. The CFPB consumer complaint database was downloaded directly from the CFPB website. In order to re-use the code from this project and run the analysis, download the data from the website link, unzip "complaints.csv.zip" in the same folder as the Jupyter notebook code and then run it. Complaints are published after the company responds, confirming a commercial relationship with the consumer, or after 15 days, whichever comes first.
+
+The Consumer Complaint Database is a collection of complaints about consumer financial products and services that were sent to companies for response. Complaints are published either after the company responds, confirming a commercial relationship with the consumer, or after 15 days, whichever comes first.
+
+
+## Analysis 
+
+### Time series of daily number of complaints
+
+<img src="images/1timeseries_d_complaints.png">
+
+Over time the number of complaints have increased and we can see very clear spikes and outliers in the beginning and the end of 2017.
 
 {% include map.html %}
+
 
 
 {% include fbar.html %}
