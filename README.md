@@ -92,3 +92,12 @@ The data shows some positive news for consumers in that most of the complaints c
 
 The data demonstrates that consumers are having increased problems with credit reporting and related issues. The trend is clear and one may predict that this trend will likely continue into the future. This sends a clear signal to the CFPB, legislators, and other interested parties that something needs to be fixed. Undoubtedly, financial firms and credit reporting agencies could come under the radar of regulators, especially after a change in political leadership and direction that looks more favorably at the CFPB's mandate. 
 
+<script language="javascript">
+var x = document.links.length;
+for (i = 0; i < x; i++) {
+  var thisHREF = document.links[i].href;
+  if (thisHREF.indexOf(window.location.hostname) > -1) thisHREF = thisHREF.replace(".md","/").replace("/index/","/");
+  document.links[i].setAttribute('href', thisHREF);
+}
+</script>
+
