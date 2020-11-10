@@ -39,17 +39,17 @@ Looking at the data by the monthly number of complaints makes it even clearer th
 
 ### Complaints by product. 
 
-<img src="4timeseries_m_complaints_product.png">
+<img src="images/4timeseries_m_complaints_product.png">
 
 The graph show clear spikes in 2017 and 2020 - due to the increase in complaints to the credit reporting, credit repair services, or other personal consumer reports. The graph makes it slightly difficult to see the other financial complaints by product, so let's check their distribution. Due to their clear spikes in the graph, let us compare 2017 to 2020. 
 
 ### Daily complaints by product - 2017 vs. 2020
 
-<img src="5distribution2017_d_complaints_product.png">
+<img src="images/5distribution2017_d_complaints_product.png">
 
 In 2017, the median number of credit reporting and related issues is a little over 200 daily complaints. However, there are outliers in the daily number of complaints, with the max reaching over 3,000 daily number of credit reporting and related issues complaints. Interestingly, student loans had a significant number of outliers and a small median.
 
-<img src="6distribution2020_d_complaints_product.png">
+<img src="images/6distribution2020_d_complaints_product.png">
 
 In comparison, in 2020, the median number of credit reporting and related issues shows a large shift and is closer to 700 daily complaints. However, there are no outliers as seen in the 2017 complaints distribution for the credit reporting related issues. Comparing the two graph also demonstrates that 2017 was not a typical year and that 2020 saw over a two-fold median increase in credit reporting and related issues complaints. 
 
@@ -57,7 +57,7 @@ In comparison, in 2020, the median number of credit reporting and related issues
 
 After looking at the large spike in 2020 complaints, how did these companies respond to these complaints? 
 
-<img src="7distribution2020_companyr_product.png">
+<img src="images/7distribution2020_companyr_product.png">
 
 We can see that 88% were closed with an explanation. Only 0.4% received an untimely response, which is low and a positive sign. Around 3% were closed with monetary relief, 6.6% were closed with non-monetary relief, and around 2% were in progress. The data shows that making complaints through the CFPB is not a lost cause or a waste of time; the likelihood that consumers will get a response is extremely likely. 
 
