@@ -9,6 +9,9 @@ This project examines and analyzes the complaints database from the Consumer Fin
 {% include map.html %}
 
 
+{% include fbar.html %}
+
+
 
 ## Welcome to GitHub Pages
 
