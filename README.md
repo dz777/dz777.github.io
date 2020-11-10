@@ -66,7 +66,7 @@ We can see that 88% were closed with an explanation. Only 0.4% received an untim
 Let's examine the total number of complaints by seeing how the states match up against each other. Which states have the most complaints?
 
 {% include map.html %}
-[State map](https://dz777.github.io)
+[S](https://dz777.github.io)
 
 The number of complaints are not uniformly distributed across the US states. Not surprisingly, the more populous states tend to have more complaints. By hovering over the text, one can see that Florida had the largest number of complaints overall (45,992), followed by California (42,042), then Texas (37,062), New York (21,702), and then Georgia (20,861). The fact that Florida is at the top demonstrates that there is some other factor at play. A possible explanation might be the higher concentration of older Americans who live there, especially since they might be an easier target. 
 
@@ -75,7 +75,7 @@ The number of complaints are not uniformly distributed across the US states. Not
 Finally, let's see which companies account for the top number of complaints and how they compare against all others.
 
 {% include fbar.html %}
-[Bar](https://dz777.github.io)
+[B](https://dz777.github.io)
 
 The top three firms that received the most number of complaints were all credit bureaus: Experian, Transunion, and Equifax. They were followed by the banks Capitol One and JPMorgan Chase, however, the difference between credit bureaus and banks were significant. Equifax received 7.5 times more complaints than Capitol One. Hovering over the bars will show the exact amount of the number of complaints received in 2020 for the top five companies and all others firms (grouped as Other).
 
