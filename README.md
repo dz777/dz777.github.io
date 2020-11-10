@@ -1,3 +1,13 @@
+## Analysis of the CFPB Consumer Complaints Database
+
+Download CFPB Data: http://files.consumerfinance.gov/ccdb/complaints.csv.zip
+
+*** The data file is over 1 GB and well above the limit set by GitHub. Please download the csv file from the link above and unzip it.
+
+This project examines and analyzes the complaints database from the Consumer Financial Protection Bureau. The database is a collection of complaints about consumer financial products and services that was sent to companies for response. The CFPB consumer complaint database was downloaded directly from the CFPB website. In order to re-use the code from this project and run the analysis, download the data from the website link, unzip "complaints.csv.zip" in the same folder as the Jupyter notebook code and then run it. Complaints are published after the company responds, confirming a commercial relationship with the consumer, or after 15 days, whichever comes first.
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/dz777/dz777.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
