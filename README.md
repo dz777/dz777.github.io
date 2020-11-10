@@ -4,7 +4,7 @@ Navajas, D.
 
 Download CFPB Data: http://files.consumerfinance.gov/ccdb/complaints.csv.zip
 
-*The data file is over 1 GB and well above the limit set by GitHub. Please download the csv file from the link above and unzip it.
+** The data file is over 1 GB and well above the limit set by GitHub. Please download the csv file from the link above and unzip it.
 
 This project examines and analyzes the complaints database from the Consumer Financial Protection Bureau. The CFPB consumer complaint database was downloaded directly from the CFPB website. In order to re-use the code from this project and run the analysis, download the data from the website link, unzip "complaints.csv.zip" in the same folder as the Jupyter notebook code and then run it. 
 
